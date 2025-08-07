@@ -687,6 +687,7 @@ margin-bottom: 16px;
 
 .review-form-input:focus + .review-form-field-icon {
   fill: #4d5ae5;
+  border-color: #4d5ae5;
 }
 
 .review-form-input-wrapper {
